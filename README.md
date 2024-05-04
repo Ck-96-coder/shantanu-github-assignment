@@ -1,1 +1,1 @@
-# shantanu-github-assignment
+# Laboratory Practice 2
